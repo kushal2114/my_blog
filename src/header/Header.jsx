@@ -1,5 +1,4 @@
 import './header.css'
-import headphone from './headphone.jpg'
 import train from './train_track.jpg'
 
 export default function Header() {
